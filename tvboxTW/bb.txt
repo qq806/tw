@@ -30,4 +30,86 @@
 
 { "url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/qq806/tw/main/tvboxTW/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF%E3%80%91/api.json", "name": "【潇洒线路】" },
 
+{
+            "Name": "公众号：陌宇信息科技",
+            "Url": "https://tvbox.ittu.cn/storehouse/moyuonline.php?type=gzh"
+        },
+        {
+            "Name": "地址:https://tvbox.ittu.cn",
+            "Url": "https://tvbox.ittu.cn/storehouse/moyuonline.php?type=address"
+        },
+        {
+            "Name": "Moyu | 精选推荐★",
+            "Url": "https://tvbox.ittu.cn/storehouse/moyutop.php"
+        },
+        {
+            "Name": "Moyu | 在线仓库",
+            "Url": "https://tvbox.ittu.cn/storehouse/moyuonline.php"
+        },
+        {
+            "Name": "Moyu | 七星宝盒",
+            "Url": "https://qixing.myhkw.com/DC.txt"
+        },
+        {
+            "Name": "Moyu | 欧歌多仓",
+            "Url": "https://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=%E6%AC%A7%E6%AD%8C?&95v"
+        },
+        {
+            "Name": "Moyu | 念心多仓",
+            "Url": "https://pz.nianxin.top/nxD.json"
+        },
+        {
+            "Name": "Moyu | 毒盒多仓",
+            "Url": "https://tvbox.ittu.cn/storehouse/others/%E6%AF%92%E7%9B%92.json"
+        },
+        {
+            "Name": "Moyu | 圥忈多仓",
+            "Url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json?ref_type=heads"
+        },
+        {
+            "Name": "Moyu | 无敌仓",
+            "Url": "https://d.kstore.space/download/5147/%E6%97%A0%E6%95%8C%E4%BB%93duoxianlu.json"
+        },
+        {
+            "Name": "Moyu | 爱尚多仓",
+            "Url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/aishang.json?ref=master"
+        },
+        {
+            "Name": "Moyu | 蓝色影视多仓",
+            "Url": "https://raw.gitcode.com/yydg/ggdx/raw/main/Xboxb.json"
+        },
+        {
+            "Name": "Moyu | 挺好仓",
+            "Url": "http://ztha.top/TVBox/GYCK.json"
+        },
+        {
+            "sourceName": "Moyu | 恒星仓",
+            "sourceUrl": "http://yuhuahx.com/hxck1.txt"
+        },
+        {
+            "Name": "Moyu | 摸鱼仓",
+            "Url": "http://小鱼干.摸鱼儿.top"
+        },
+        {
+            "Name": "Moyu | 天微仓1",
+            "Url": "https://tvkj.top/DC.txt"
+        },
+        {
+            "Name": "Moyu | z5仓",
+            "Url": "https://zzzzz.tv/tv/z.txt"
+        },
+        {
+            "Name": "Moyu | 蜂蜜仓",
+            "Url": "http://fmys.top/online.json"
+        },
+        {
+            "Name": "Moyu | 朱师傅仓",
+            "Url": "https://d.kstore.space/download/5303/zhushifu/002.txt"
+        },
+        {
+            "Name": "Moyu | 云星仓",
+            "Url": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+        },
+
+
 { "url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/qq806/tw/main/tvboxTW/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90%E3%80%91/api.json", "name": "【戏曲音乐】" }]}
