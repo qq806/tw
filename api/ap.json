@@ -1525,7 +1525,7 @@
             "type": 3,
             "searchable": 0,
             "api": "https://raw.kkgithub.com/liu673cn/box/main/libs/tv/zb.min.js",
-            "ext": "https://git.acwing.com/lb8006/pg/-/raw/main/lib/fm.json"
+            "ext": "./lib/fm.json"
         },
     {
       "key": "哔哩哔哩戏曲",
