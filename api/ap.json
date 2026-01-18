@@ -1524,7 +1524,7 @@
             "name": "花花┃直播",
             "type": 3,
             "searchable": 0,
-            "api": "./lib/live2vod.js",
+            "api": "https://gitee.com/lb778899/tvbox/raw/master/lib/live2vod.js",
             "ext": "https://git.acwing.com/lb8006/pg/-/raw/main/lib/fm.json"
         },
     {
