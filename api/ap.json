@@ -1,5 +1,5 @@
 {
-  "spider": "./01161540.png;md5;8c3eedbb006f276c9b47aeebeb1bdb29",
+  "spider": "./01231433.png;md5;f8e89f42f5dc64433fdfa946fd6f35be",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -93,6 +93,25 @@
       }
     },
     {
+      "key": "奇奇",
+      "name": "奇奇｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:8006",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg",
+        "search": "searchList7",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+
+
+    {
       "key": "恋鱼",
       "name": "恋鱼｜APP",
       "type": 3,
@@ -119,22 +138,7 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "橘子",
-      "name": "橘子｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "url": "https://juziapp.tpmbt.cn",
-        "dataKey": "K3h6YvSU8BTUfEcb",
-        "dataIv": "K3h6YvSU8BTUfEcb",
-        "version": "305",
-        "ua": "okhttp/3.10.0"
-      }
-    },
+   
     {
       "key": "爱盈",
       "name": "爱盈｜APP",
@@ -239,17 +243,7 @@
         "version": "120"
       }
     },
-    {
-      "key": "奇奇",
-      "name": "奇奇｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "./lib/a.txt",
-        "dataKey": "123456789abcdefg",
-        "dataIv": "123456789abcdefg"
-      }
-    },
+   
     {
       "key": "火锅",
       "name": "火锅｜APP",
@@ -261,7 +255,65 @@
         "dataIv": "062dec75d039980e",
         "ua": "Dart/3.5 (dart:io)"
       }
+    }, {
+      "key": "火狐",
+      "name": "火狐｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "./lib/huohushipin.txt",
+        "dataKey": "huohushipingetap",
+        "dataIv": "huohushipingetap"
+      }
     },
+    {
+      "key": "看呗",
+      "name": "看呗｜APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://www.winter1.fun",
+        "dataKey": "abcdefghigklmn11",
+        "dataIv": "abcdefghigklmn11"
+      }
+    },
+    {
+      "key": "优兔",
+      "name": "优兔｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "./lib/uutuv4.txt",
+        "dataKey": "UrWKPnmQWJA8AQzd",
+        "dataIv": "UrWKPnmQWJA8AQzd"
+      }
+    },
+    {
+      "key": "小猫",
+      "name": "小猫｜APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "./lib/1.txt",
+        "dataKey": "xmyxmyxywlkjxywl",
+        "dataIv": "xmyxmyxywlkjxywl"
+      }
+    },
+    {
+      "key": "小白",
+      "name": "小白｜APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://uutu.efjhl.cn",
+        "dataKey": "uXVVRRuaPnjEfsX5",
+        "dataIv": "uXVVRRuaPnjEfsX5"
+      }
+    },
+
     {
       "key": "天峰",
       "name": "天峰｜APP",
