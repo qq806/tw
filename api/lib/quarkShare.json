@@ -70,12 +70,10 @@
         "name": "音乐合集",
         "folders": [
             {
-                "name": "音乐合集"
                 "shareId": "145bebe75a03",
                 "folder": "0"
             },
             {
-                "name": "经典老歌"
                 "shareId": "e255faf6d914",
                 "folder": "0"
 
