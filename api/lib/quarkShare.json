@@ -23,6 +23,14 @@
             {
                 "shareId": "885fd4ba2d92",
                 "folder": "0"
+            },{
+                "shareId": "145bebe75a03",
+                "folder": "0"
+            },
+            {
+                "shareId": "e255faf6d914",
+                "folder": "0"
+
             },
             {
                 "shareId": "a1cda418984f",
@@ -66,45 +74,7 @@
                 "folder": "0"
             }
         ]
-    },  {
-        "name": "音乐合集",
-        "folders": [
-            {
-                "shareId": "145bebe75a03",
-                "folder": "0"
-            },
-            {
-                "shareId": "e255faf6d914",
-                "folder": "0"
-
-            },
-            {
-                "shareId": "2f59bb5d96b9",
-                "folder": "0"
-            },
-            {
-                "shareId": "50828c368def",
-                "folder": "0"
-            },
-            {
-                "shareId": "e07e26aecc08",
-                "folder": "0"
-            },
-            {
-                "shareId": "0536a38a356e",
-                "folder": "0"
-            },
-            {
-                "shareId": "e273ef697403",
-                "folder": "0"
-            },
-            {
-                "shareId": "c8ac6c88e5d8",
-                "folder": "0"
-            }
-        ]
-    },
-
+    },  
     {
         "name": "电视剧合集",
         "folders": [
@@ -146,4 +116,5 @@
             }
         ]
     }
+
 ]
