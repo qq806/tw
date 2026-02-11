@@ -7,6 +7,14 @@
 	{
 		"name":"花花直播",
 		"url":"https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/tw/main/api/lib/zj.txt"},
+	  {
+      "name": "IPTV直播",
+      "type": 0,
+      "url": "https://what.612526.xyz:5679/tv.txt?proxy=1",
+      "epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",
+      "logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",
+      "timeout": 10
+    },
 	{
 		"name":"lv直播",
 		"url":"https://cf.612526.xyz/https://fy.188766.xyz/?url=http://good.612526.xyz:35455"},
