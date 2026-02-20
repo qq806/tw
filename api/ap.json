@@ -2,6 +2,39 @@
   "spider": "./01231433.png",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
+  "lives": [
+    {
+      "name": "繁华💝IPTV直播",
+      "type": 0,
+      "url": "https://what.612526.xyz:5679/tv.txt?proxy=1",
+      "epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",
+      "logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",
+      "timeout": 10
+    },
+    {
+      "name": "全网通",
+      "type": 0,
+      "url": "http://good.612526.xyz:8808/sitv.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "繁华💝繁华咪咕",
+      "type": 0,
+      "url": "http://good.612526.xyz:3000/",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "bingcha/1.1"
+    },
+    {
+      "name": "繁华💝电视Live",
+      "type": 0,
+      "url": "https://fy.188766.xyz/http://good.612526.xyz:35455",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 10
+    }
+  ],
   "sites": [
     {
       "key": "豆瓣",
