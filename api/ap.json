@@ -6,7 +6,7 @@
     {
       "name": "繁华💝IPTV直播",
       "type": 0,
-      "url": "https://what.612526.xyz:5679/tv.txt?proxy=1",
+      "url": "http://iptv.612526.xyz:5678/tv.txt?proxy=1",
       "epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",
       "logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",
       "timeout": 10
