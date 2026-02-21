@@ -1,76 +1,46 @@
-[{	
-"name":"mtv",	
-"url":"https://9246.kstore.space/%E5%91%B3%E7%B2%BEmtv.txt"},   
-{	  
-"name":"mg直播",	  
-"url":"https://cf.612526.xyz/http://good.612526.xyz:3000/"},	
-{		
-"name":"花花直播",		
-"url":"https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/tw/main/api/lib/zj.txt"},	
-{		
-"name":"全网通直播",		
-"url":"https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/bing/main/TV/%E5%85%A8%E7%BD%91%E9%80%9A.txt"},
-	  {      
-"name": "IPTV直播",      
-"type": 0,      
-"url": "http://iptv.612526.xyz:5678/tv.txt?proxy=1",      
-"epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",      
-"logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",      
-"timeout": 10    
-},	
-{		
-"name":"lv直播",		
-"url":"https://cf.612526.xyz/https://fy.188766.xyz/?url=http://good.612526.xyz:35455"},	
-{		
-"name":"Gather.电视直播",		
-"url":"https://tv.iill.top/m3u/Gather"},	
-{		
-"name":"Gather.网络直播",		
-"url":"https://tv.iill.top/m3u/Live"},	 
-{        
-"name": "视界",        
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt"  
-},  
-{    
-"name": "Girls",    
-"url": "http://x315601.serv00.net/10.php"  
-},  
-{    
-"name": "pron",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u"  
-},  
-{    
-"name": "AdultIPTV",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt"  
-},  
-{    
-"name": "天美",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt"  
-},  
-{    
-"name": "果冻",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt"  
-},  
-{    
-"name": "豆豆",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt"  
-},  
-{    
-"name": "星空",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt"  
-},  
-{    
-"name": "东东",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt"  
-},  
-{    
-"name": "至尊",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u"  
-},  
-{    
-"name": "终极",    
-"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt"  
-},  
-{    
-"name": "珍藏",
-  ]
+#订阅名
+地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+
+相对路径说明
+以./开头，相对位置是本订阅文件
+以/开头，存储卡的根目录
+#mtv
+https://9246.kstore.space/%E5%91%B3%E7%B2%BEmtv.txt
+#mg直播
+https://cf.612526.xyz/http://good.612526.xyz:3000/
+#猫tv频道
+http://rihou.cc:567/gggg.nzk
+#花花直播
+http://iptv.612526.xyz:5678/tv.txt?proxy=1
+#全网通
+https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/bing/main/TV/%E5%85%A8%E7%BD%91%E9%80%9A.txt
+#16万mv
+https://cf.612526.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
+#讴歌
+https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+#平台直播
+http://tv.iill.top/m3u/Live
+#范明v6
+https://cf.612526.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+#众合v4
+https://cf.612526.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+#Girls   
+http://x315601.serv00.net/10.php
+#pron
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u
+#AdultIPTV    
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt
+#天美   
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt
+#果冻 
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt
+#豆豆   
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt
+#星空
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt  
+#东东   
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt
+#至尊  
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u
+#终极    
+https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt
