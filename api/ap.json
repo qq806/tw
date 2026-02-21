@@ -1594,7 +1594,7 @@
             "type": 3,
             "searchable": 0,
             "api": "https://raw.kkgithub.com/liu673cn/box/main/libs/tv/zb.min.js",
-            "ext": "./lib/fm.json"
+            "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qq806/tw/main/api/lib/fm.json"
         },
     {
       "key": "哔哩哔哩戏曲",
