@@ -1,139 +1,76 @@
-[{
-	"name":"mtv",
-	"url":"https://9246.kstore.space/%E5%91%B3%E7%B2%BEmtv.txt"},
-   {
-	  "name":"mg直播",
-	  "url":"https://cf.612526.xyz/http://good.612526.xyz:3000/"},
-	{
-		"name":"花花直播",
-		"url":"https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/tw/main/api/lib/zj.txt"},
-	  {
-      "name": "IPTV直播",
-      "type": 0,
-      "url": "https://what.612526.xyz:5679/tv.txt?proxy=1",
-      "epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",
-      "logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",
-      "timeout": 10
-    },
-	{
-		"name":"lv直播",
-		"url":"https://cf.612526.xyz/https://fy.188766.xyz/?url=http://good.612526.xyz:35455"},
-	{
-		"name":"Gather.电视直播",
-		"url":"https://tv.iill.top/m3u/Gather"},
-	{
-		"name":"Gather.网络直播",
-		"url":"https://tv.iill.top/m3u/Live"},
-	 {
-        "name": "视界",
-        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt"
-  },
-  {
-    "name": "Girls",
-    "url": "http://x315601.serv00.net/10.php"
-  },
-  {
-    "name": "pron",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u"
-  },
-  {
-    "name": "AdultIPTV",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt"
-  },
-  {
-    "name": "天美",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt"
-  },
-  {
-    "name": "果冻",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt"
-  },
-  {
-    "name": "豆豆",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt"
-  },
-  {
-    "name": "星空",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt"
-  },
-  {
-    "name": "东东",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt"
-  },
-  {
-    "name": "至尊",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u"
-  },
-  {
-    "name": "终极",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt"
-  },
-  {
-    "name": "珍藏",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u"
-  },
-  {
-    "name": "绝品",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt"
-  },
-  {
-    "name": "无敌",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u"
-  },
-  {
-    "name": "经典",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u"
-  },
-  {
-    "name": "花活",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/花活.txt"
-  },
-  {
-    "name": "达人",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/达人.txt"
-  },
-  {
-    "name": "live",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt"
-  },
-  {
-    "name": "美美",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/美腿丝袜.txt"
-  },
-  {
-    "name": "大人电影",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt"
-  },
-  {
-    "name": "国剧",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/国产传媒.m3u"
-  },
-  {
-    "name": "几个",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/几个传媒.txt"
-  },
-  {
-    "name": "青年",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人传媒.txt"
-  },
-  {
-    "name": "丰富",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt"
-  },
-  {
-    "name": "维护",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/维护成人.txt"
-  },
-  {
-    "name": "181818",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt"
-  },
-  {
-    "name": "哈哈",
-    "url": "https://gh.xxooo.cf/http://bwind.fr.to/m3u/crzb.txt"
-  },
-  {
-    "name": "19",
-    "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18+.txt"
-  }
+[{	
+"name":"mtv",	
+"url":"https://9246.kstore.space/%E5%91%B3%E7%B2%BEmtv.txt"},   
+{	  
+"name":"mg直播",	  
+"url":"https://cf.612526.xyz/http://good.612526.xyz:3000/"},	
+{		
+"name":"花花直播",		
+"url":"https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/tw/main/api/lib/zj.txt"},	
+{		
+"name":"全网通直播",		
+"url":"https://cf.612526.xyz/https://raw.githubusercontent.com/qq806/bing/main/TV/%E5%85%A8%E7%BD%91%E9%80%9A.txt"},
+	  {      
+"name": "IPTV直播",      
+"type": 0,      
+"url": "http://iptv.612526.xyz:5678/tv.txt?proxy=1",      
+"epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",      
+"logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",      
+"timeout": 10    
+},	
+{		
+"name":"lv直播",		
+"url":"https://cf.612526.xyz/https://fy.188766.xyz/?url=http://good.612526.xyz:35455"},	
+{		
+"name":"Gather.电视直播",		
+"url":"https://tv.iill.top/m3u/Gather"},	
+{		
+"name":"Gather.网络直播",		
+"url":"https://tv.iill.top/m3u/Live"},	 
+{        
+"name": "视界",        
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt"  
+},  
+{    
+"name": "Girls",    
+"url": "http://x315601.serv00.net/10.php"  
+},  
+{    
+"name": "pron",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u"  
+},  
+{    
+"name": "AdultIPTV",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt"  
+},  
+{    
+"name": "天美",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt"  
+},  
+{    
+"name": "果冻",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt"  
+},  
+{    
+"name": "豆豆",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt"  
+},  
+{    
+"name": "星空",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt"  
+},  
+{    
+"name": "东东",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt"  
+},  
+{    
+"name": "至尊",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u"  
+},  
+{    
+"name": "终极",    
+"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt"  
+},  
+{    
+"name": "珍藏",
   ]
