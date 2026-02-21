@@ -1593,7 +1593,7 @@
             "name": "花花┃直播",
             "type": 3,
             "searchable": 0,
-            "api": "https://raw.kkgithub.com/liu673cn/box/main/libs/tv/zb.min.js",
+            "api": "https://gitee.com/lb778899/tvbox/raw/master/lib/live2vod.js",
             "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qq806/tw/main/api/lib/fm.json"
         },
     {
