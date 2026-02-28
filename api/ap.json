@@ -3,19 +3,19 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "lives": [
-    {
-      "name": "繁华💝IPTV直播",
-      "type": 0,
-      "url": "http://iptv.612526.xyz:5678/tv.txt?proxy=1",
-      "epg": "https://what.612526.xyz:5679/index.php?ch={name}&date={date}",
-      "logo": "https://what.612526.xyz:5679/index.php?ch={name}&type=icon",
-      "timeout": 10
-    },
+ 
     {
       "name": "全网通",
       "type": 0,
       "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qq806/bing/main/TV/%E5%85%A8%E7%BD%91%E9%80%9A.txt",
       "playerType": 2,
+      "timeout": 10
+    },    {
+      "name": "繁华💝IPTV直播",
+      "type": 0,
+      "url": "https://bt.612526.xyz:8443/IPTV.txt",
+      "epg": "http://bt.612526.xyz:881/epg/NjIxNzU1NDQwZGY1Pq_pIpo3CBMdB6qa5QT8SYK7gBRp6WN-sJo=/e.xml",
+      "logo": "https://www.612526.xyz:8443/index.php?ch={name}&type=icon",
       "timeout": 10
     },
     {
