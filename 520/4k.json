@@ -1,0 +1,232 @@
+{"spider":  "./lib/yunok.jar",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
+  "sites": [
+    {
+      "key": "Douban",
+      "name": "幽兰谣｜仅供测试｜数据来源于互联网公开资源",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "./lib/xif.jar",
+      "searchable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "新腾极4k",
+      "name": "幽兰谣｜腾腾｜4K",
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./lib/新真4ktx.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "幽兰谣｜芒芒｜4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/新真mg4k.js"
+    },
+    {
+      "key": "哔哩视频",
+      "name": "幽兰谣｜哔哔｜4K",
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/bili.js"
+    },
+    {
+      "key": "腾讯视频",
+      "name": "备用｜腾腾｜4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "备用｜芒芒｜4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/芒果视频.js"
+    },
+    {
+      "key": "奇艺视频",
+      "name": "幽兰谣｜奇艺｜2K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/爱奇艺视频.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "幽兰谣｜优酷｜2K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/优酷视频.js"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "幽兰谣｜瓜子｜蓝光",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "./lib/xf.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+        "key":"ouge",
+        "name":"幽兰谣｜木偶｜4K",
+        "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Muou",
+        "cookie": "./lib/fur3ck.txt",
+        "uc_cookie": "./lib/uc.txt",
+        "baidu_cookie": "./lib/bd.txt"
+      },
+      "timeout": 25
+    },
+    {
+        "key":"labi",
+        "name":"幽兰谣｜至臻｜4K",
+        "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "ZhiZhen",
+        "cookie": "./lib/fur3ck.txt",
+        "uc_cookie": "./lib/uc.txt",
+        "baidu_cookie": "./lib/bd.txt"
+      },
+      "timeout": 25
+    },
+    {
+        "key":"libo",
+        "name":"幽兰谣｜玩偶｜4K",
+        "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Wogg",
+        "cookie": "./lib/fur3ck.txt",
+        "uc_cookie": "./lib/uc.txt",
+        "baidu_cookie": "./lib/bd.txt"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "移动",
+      "name": "幽兰谣｜免扫4k｜移动",
+      "type": 3,
+      "jar": "./lib/yunY.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "央库云",
+      "name": "幽兰谣｜央视｜云聚",
+      "type": 3,
+      "api": "./lib/apiv375央库云.py",
+      "jar": "./lib/xif.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "EMBY",
+      "name": "幽兰谣｜鸭子｜4K",
+      "type": 3,
+      "api": "./lib/apiv403幽兰谣.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "server": "https://emby.bangumi.ca:443",
+        "username": "tangsan",
+        "password": "tangsan",
+        "proxy": "",
+        "thread": 0,
+        "device_name": "My Computer",
+        "client": "Hills Windows",
+        "client_version": "0.3.2",
+        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+      }
+    },
+    {
+      "key": "人人影视",
+      "name": "幽兰谣｜影视｜4K",
+      "type": 3,
+      "api": "./lib/apiv461人人影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+        {
+      "key": "温馨提示1",
+      "name": "接口仅供学习参考",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "温馨提示2",
+      "name": "严禁违规使用",
+      "type": 3,
+      "api": "csp_ylysm",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "温馨提示3",
+      "name": "接口爬取的是公开网站",
+      "type": 3,
+      "api": "csp_ylysm",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "温馨提示4",
+      "name": "如有侵权请联系删除",
+      "type": 3,
+      "api": "csp_ylysm",
+      "playerType": "1",
+      "searchable": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "幽兰谣",
+      "type": "1",
+      "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
+    }
+  ],
+  "notice": "欢迎使用幽兰谣专线4K",
+  "logo": "./lib/a79a467478203bcf146ff5c9166eb44a.png"
+}
