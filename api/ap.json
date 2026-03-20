@@ -7,7 +7,7 @@
     {
       "name": "全网通",
       "type": 0,
-      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qq806/bing/refs/heads/main/TV/%E5%85%A8%E7%BD%91%E9%80%9A.txt",
+      "url": "https://cnb.cool/qq806lv/tw/-/git/raw/main/api/lib/%E5%85%A8%E7%BD%91%E9%80%9A",
       "playerType": 2,
       "timeout": 10
     },    {
@@ -480,6 +480,33 @@
         "dataIv": "2SWSPFxugBLPPOKo",
         "version": "120"
       }
+    },   {
+      "key": "新腾极4k",
+      "name": "幽兰｜腾腾",
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./lib/新真4ktx.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "幽兰｜芒芒",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/新真mg4k.js"
+    },
+    {
+      "key": "哔哩视",
+      "name": "幽兰｜哔哔",
+      "type": 3,
+      "api": "./lib/apiv37drpy2.min.js",
+      "ext": "./lib/bili.js"
     },
     {
       "key": "哔哩视频",
@@ -503,28 +530,28 @@
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
-      "api": "https://file.zhangyichi.dev/uploads/695cb6347d0b1_1767683636.js",
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
       "ext": "./lib/TXSP.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
-      "api": "https://file.zhangyichi.dev/uploads/695cb6347d0b1_1767683636.js",
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
       "ext": "./lib/YKSP.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果｜视频",
       "type": 3,
-      "api": "https://file.zhangyichi.dev/uploads/695cb6347d0b1_1767683636.js",
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
       "ext": "./lib/MGSP.js"
     },
     {
       "key": "爱奇艺",
       "name": "爱奇艺｜视频",
       "type": 3,
-      "api": "https://file.zhangyichi.dev/uploads/695cb6347d0b1_1767683636.js",
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
       "ext": "./lib/AQY.js"
     },
     {
@@ -1594,7 +1621,7 @@
             "type": 3,
             "searchable": 0,
             "api": "https://gitee.com/lb778899/tvbox/raw/master/lib/lf_live10_min-output.js",
-            "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qq806/tw/main/api/lib/fm.json"
+            "ext": "./lib/fm.json"
         },
       {
             "key": "lf_live10_min",
@@ -1607,6 +1634,7 @@
             "api": "https://gitee.com/lb778899/tvbox/raw/master/lib/lf_live10_min-output.js",
             "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qq806/tw/main/api/lib/fm.json"
         },
+
     {
       "key": "哔哩哔哩戏曲",
       "name": "哔哩｜戏曲",
@@ -1661,11 +1689,6 @@
     }
   ],
   "parses": [
-    {
-      "name": "聚合",
-      "type": 3,
-      "url": "Web"
-    },
     {
       "name": "定制接口",
       "type": "1",
