@@ -1616,7 +1616,7 @@
       "filterable": 1
     },
         {
-            "key": "直播转点播",
+            "key": "lf_live2_min",
             "name": "花花┃直播",
             "type": 3,
             "searchable": 0,
@@ -1635,7 +1635,7 @@
             "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qq806/tw/main/api/lib/fm.json"
         },
 {
-            "key": "直播点播",
+            "key": "直播转点播",
             "name": "🐼️┃电视┃直播",
             "type": 3,
             "searchable": 0,
