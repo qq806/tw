@@ -222,6 +222,27 @@
   ],
   "parses": [
     {
+      "name": "定制接口",
+      "type": "1",
+      "url": "http://121.40.174.45:666/Smdy/Baomihua?token=1EDHP59e&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "yk",
+          "优酷",
+          "mgtv",
+          "imgo",
+          "芒果"
+        ]
+      }
+    },
+    {
       "name": "幽兰谣",
       "type": "1",
       "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
